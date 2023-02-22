@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "hello_word.dart",
+            "program": "./exercicios-basic/hello_word.dart",
             "console": "terminal"  
         }
     ]
